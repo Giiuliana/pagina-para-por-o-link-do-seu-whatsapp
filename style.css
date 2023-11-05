@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(56, 105, 56);
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 10%;
+    font-size: 25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(243, 255, 242);
+    font-family: montserrat;
+    font-size: 30px;
+
+}
+
+img{
+    cursor: pointer;
+    width: 400px;
+    margin-top: 10px ;
+    box-sizing: 10px;
+    box-shadow: 300px solid rgb(151, 245, 214);
+}
+footer{
+    margin: 0px 0px 0px 2px
+    ;
+    font-size: 40%;
+    width: 0px 0px 90px 90
+    px ;
+    height: 50px;
+}
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	margin-top: 50px;
+}
